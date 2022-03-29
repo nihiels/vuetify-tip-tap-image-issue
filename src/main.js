@@ -8,7 +8,6 @@ import '@mdi/font/css/materialdesignicons.min.css'
 Vue.config.productionTip = false
 
 Vue.use(TiptapVuetifyPlugin, {
-
   vuetify,
   iconsGroup: 'mdi'
 })
